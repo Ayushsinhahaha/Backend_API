@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Google Pixel 7",
+        "price": 43999,
+        "rating": 4.6,
+        "company": "Google"
+    },
+    {
+        "name": "Samsung S22 Ultra",
+        "price": 122000,
+        "rating": 4.8,
+        "company": "Samsung"
+    },
+    {
+        "name": "Apple iPhone 13",
+        "price": 79999,
+        "rating": 4.7,
+        "company": "Apple"
+    },
+    {
+        "name": "Nothing 2",
+        "price": 34999,
+        "rating": 4.5,
+        "company": "Nothing"
+    },
+    {
+        "name": "google pixel 7 Pro",
+        "price": 67355,
+        "rating": 4.85,
+        "company": "Google"
+    }
+]
